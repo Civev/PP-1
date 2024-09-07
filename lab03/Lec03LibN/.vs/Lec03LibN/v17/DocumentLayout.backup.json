@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonuscl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\programming\\vus\\paterns\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonusbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\programming\\vus\\paterns\\pp-1-main\\lab03\\lec03libn\\lec03libn\\salaryforl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\salaryforl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,6 +45,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\programming\\vus\\paterns\\pp-1-main\\lab03\\lec03libn\\lec03libn\\salaryforl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\salaryforl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\programming\\vus\\paterns\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonusbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +58,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -68,14 +72,14 @@
               "RelativeDocumentMoniker": "Lec03LibN\\BonusCL3.cs",
               "ToolTip": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusCL3.cs",
               "RelativeToolTip": "Lec03LibN\\BonusCL3.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T14:26:11.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "BonusB.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusB.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\BonusB.cs",
@@ -87,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "BonusBL3.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL3.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\BonusBL3.cs",
@@ -99,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IFactory.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\IFactory.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\IFactory.cs",
@@ -111,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "BonusAL3.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusAL3.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\BonusAL3.cs",
@@ -123,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SalaryForL3.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\SalaryForL3.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\SalaryForL3.cs",
@@ -135,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "BonusCL2.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusCL2.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\BonusCL2.cs",
@@ -143,11 +147,12 @@
               "RelativeToolTip": "Lec03LibN\\BonusCL2.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T20:45:18.245Z"
+              "WhenOpened": "2024-09-06T20:45:18.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\PP03\\Program.cs",
               "RelativeDocumentMoniker": "PP03\\Program.cs",
@@ -159,24 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BonusBL2.cs",
-              "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL2.cs",
-              "RelativeDocumentMoniker": "Lec03LibN\\BonusBL2.cs",
-              "ToolTip": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL2.cs",
-              "RelativeToolTip": "Lec03LibN\\BonusBL2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T20:57:28.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Lec03LibN.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\Lec03LibN.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\Lec03LibN.cs",
@@ -188,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Emploee.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\PP03\\Emploee.cs",
               "RelativeDocumentMoniker": "PP03\\Emploee.cs",
@@ -200,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "SalaryForL2.cs",
               "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\SalaryForL2.cs",
               "RelativeDocumentMoniker": "Lec03LibN\\SalaryForL2.cs",
@@ -209,6 +197,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T20:56:48.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BonusBL2.cs",
+              "DocumentMoniker": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL2.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusBL2.cs",
+              "ToolTip": "D:\\programming\\vus\\paterns\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL2.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusBL2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:57:28.69Z"
             }
           ]
         }
