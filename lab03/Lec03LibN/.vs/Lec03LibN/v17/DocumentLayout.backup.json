@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonuscl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonuscl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\salaryforl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\salaryforl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|solutionrelative:pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\lec03libn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\lec03libn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonusbl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusbl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\pp03\\emploee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FFA7BD-D60D-4997-A3B0-2828DDDE194A}|PP03\\PP03.csproj|solutionrelative:pp03\\emploee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonuscl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonuscl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonusal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\salaryforl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\salaryforl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|d:\\games\\pp-1-main\\lab03\\lec03libn\\lec03libn\\bonusbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350AEF9A-FE3F-437E-95B2-C2EC7AFBB3BA}|Lec03LibN\\Lec03LibN.csproj|solutionrelative:lec03libn\\bonusbl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BonusCL3.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusCL3.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusCL3.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusCL3.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusCL3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:26:11.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BonusB.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusB.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusB.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusB.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusB.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:17:32.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BonusBL3.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL3.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusBL3.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL3.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusBL3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:16:32.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFactory.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\IFactory.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\IFactory.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\IFactory.cs",
+              "RelativeToolTip": "Lec03LibN\\IFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:23:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BonusAL3.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusAL3.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusAL3.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusAL3.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusAL3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:35:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryForL3.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\SalaryForL3.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\SalaryForL3.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\SalaryForL3.cs",
+              "RelativeToolTip": "Lec03LibN\\SalaryForL3.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:59:11.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BonusCL2.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusCL2.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusCL2.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusCL2.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusCL2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:45:18.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\PP03\\Program.cs",
+              "RelativeDocumentMoniker": "PP03\\Program.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\PP03\\Program.cs",
+              "RelativeToolTip": "PP03\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:55:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lec03LibN.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\Lec03LibN.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\Lec03LibN.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\Lec03LibN.cs",
+              "RelativeToolTip": "Lec03LibN\\Lec03LibN.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:23:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Emploee.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\PP03\\Emploee.cs",
+              "RelativeDocumentMoniker": "PP03\\Emploee.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\PP03\\Emploee.cs",
+              "RelativeToolTip": "PP03\\Emploee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:45:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalaryForL2.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\SalaryForL2.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\SalaryForL2.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\SalaryForL2.cs",
+              "RelativeToolTip": "Lec03LibN\\SalaryForL2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:56:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BonusBL2.cs",
+              "DocumentMoniker": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL2.cs",
+              "RelativeDocumentMoniker": "Lec03LibN\\BonusBL2.cs",
+              "ToolTip": "D:\\Games\\PP-1-main\\lab03\\Lec03LibN\\Lec03LibN\\BonusBL2.cs",
+              "RelativeToolTip": "Lec03LibN\\BonusBL2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:57:28.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
