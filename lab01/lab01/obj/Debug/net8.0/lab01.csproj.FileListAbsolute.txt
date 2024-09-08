@@ -1,0 +1,14 @@
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\lab01.AssemblyInfoInputs.cache
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\lab01.AssemblyInfo.cs
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\lab01.csproj.CoreCompileInputs.cache
+D:\programming\vus\paterns\lab01\lab01\bin\Debug\net8.0\lab01.exe
+D:\programming\vus\paterns\lab01\lab01\bin\Debug\net8.0\lab01.deps.json
+D:\programming\vus\paterns\lab01\lab01\bin\Debug\net8.0\lab01.runtimeconfig.json
+D:\programming\vus\paterns\lab01\lab01\bin\Debug\net8.0\lab01.dll
+D:\programming\vus\paterns\lab01\lab01\bin\Debug\net8.0\lab01.pdb
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\lab01.dll
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\refint\lab01.dll
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\lab01.pdb
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\lab01.genruntimeconfig.cache
+D:\programming\vus\paterns\lab01\lab01\obj\Debug\net8.0\ref\lab01.dll
