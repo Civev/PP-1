@@ -16,7 +16,10 @@
       },
       "Lec03LibN/1.0.0": {
         "runtime": {
-          "Lec03LibN.dll": {}
+          "Lec03LibN.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
