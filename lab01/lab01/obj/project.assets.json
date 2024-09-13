@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MrGul\\.nuget\\packages\\": {}
+    "C:\\Users\\Civ\\.nuget\\packages\\": {},
+    "E:\\programing\\utilits\\packages\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programming\\vus\\paterns\\lab01\\lab01\\lab01.csproj",
+      "projectUniqueName": "E:\\programing\\pp\\lab01\\lab01\\lab01.csproj",
       "projectName": "lab01",
-      "projectPath": "D:\\programming\\vus\\paterns\\lab01\\lab01\\lab01.csproj",
-      "packagesPath": "C:\\Users\\MrGul\\.nuget\\packages\\",
-      "outputPath": "D:\\programming\\vus\\paterns\\lab01\\lab01\\obj\\",
+      "projectPath": "E:\\programing\\pp\\lab01\\lab01\\lab01.csproj",
+      "packagesPath": "C:\\Users\\Civ\\.nuget\\packages\\",
+      "outputPath": "E:\\programing\\pp\\lab01\\lab01\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\programing\\utilits\\packages\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MrGul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Civ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

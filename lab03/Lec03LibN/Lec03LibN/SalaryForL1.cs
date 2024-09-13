@@ -12,8 +12,8 @@ namespace Lec03LibN
 
         public IBonus GetA(float costOneHour)
         {
-            IBonus bonus =  new BonusA(costOneHour);
-            return bonus;
+            
+            return new BonusA(costOneHour);
             
         }
 

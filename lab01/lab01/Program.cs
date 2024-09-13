@@ -19,7 +19,11 @@ Person person = new Person("Сергей", 23, 2121, "М");
 
 Console.WriteLine(person.Name);
 
+
 var truck = new Truck("tirex", "23123", 25);
+
+
+
 
 Console.WriteLine(truck.TahometrNubmer);
 

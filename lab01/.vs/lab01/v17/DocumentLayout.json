@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programming\\vus\\paterns\\lab01\\",
+  "WorkspaceRootPath": "E:\\programing\\pp\\lab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|d:\\programming\\vus\\paterns\\lab01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|d:\\programming\\vus\\paterns\\lab01\\lab01\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|d:\\programming\\vus\\paterns\\lab01\\lab01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|e:\\programing\\pp\\lab01\\lab01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|d:\\programming\\vus\\paterns\\lab01\\lab01\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|d:\\programming\\vus\\paterns\\lab01\\lab01\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|e:\\programing\\pp\\lab01\\lab01\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|d:\\programming\\vus\\paterns\\lab01\\lab01\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|e:\\programing\\pp\\lab01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|e:\\programing\\pp\\lab01\\lab01\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|e:\\programing\\pp\\lab01\\lab01\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|e:\\programing\\pp\\lab01\\lab01\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB40188-A594-48F0-897F-CF0A7A296BC8}|lab01\\lab01.csproj|solutionrelative:lab01\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Truck.cs",
-              "DocumentMoniker": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Truck.cs",
+              "DocumentMoniker": "E:\\programing\\pp\\lab01\\lab01\\Truck.cs",
               "RelativeDocumentMoniker": "lab01\\Truck.cs",
-              "ToolTip": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Truck.cs",
+              "ToolTip": "E:\\programing\\pp\\lab01\\lab01\\Truck.cs",
               "RelativeToolTip": "lab01\\Truck.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAOAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T07:42:56.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Car.cs",
-              "DocumentMoniker": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Car.cs",
+              "DocumentMoniker": "E:\\programing\\pp\\lab01\\lab01\\Car.cs",
               "RelativeDocumentMoniker": "lab01\\Car.cs",
-              "ToolTip": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Car.cs",
+              "ToolTip": "E:\\programing\\pp\\lab01\\lab01\\Car.cs",
               "RelativeToolTip": "lab01\\Car.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAADwv0YAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:42:48.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T07:42:48.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
-              "DocumentMoniker": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Person.cs",
+              "DocumentMoniker": "E:\\programing\\pp\\lab01\\lab01\\Person.cs",
               "RelativeDocumentMoniker": "lab01\\Person.cs",
-              "ToolTip": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Person.cs",
-              "RelativeToolTip": "lab01\\Person.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwGEAAAAWAAAAAAAAAA==",
+              "ToolTip": "E:\\programing\\pp\\lab01\\lab01\\Person.cs*",
+              "RelativeToolTip": "lab01\\Person.cs*",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwCYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T22:22:34.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IPerson.cs",
-              "DocumentMoniker": "D:\\programming\\vus\\paterns\\lab01\\lab01\\IPerson.cs",
+              "DocumentMoniker": "E:\\programing\\pp\\lab01\\lab01\\IPerson.cs",
               "RelativeDocumentMoniker": "lab01\\IPerson.cs",
-              "ToolTip": "D:\\programming\\vus\\paterns\\lab01\\lab01\\IPerson.cs",
+              "ToolTip": "E:\\programing\\pp\\lab01\\lab01\\IPerson.cs",
               "RelativeToolTip": "lab01\\IPerson.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T22:06:59.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "FamilyMember.cs",
-              "DocumentMoniker": "D:\\programming\\vus\\paterns\\lab01\\lab01\\FamilyMember.cs",
+              "DocumentMoniker": "E:\\programing\\pp\\lab01\\lab01\\FamilyMember.cs",
               "RelativeDocumentMoniker": "lab01\\FamilyMember.cs",
-              "ToolTip": "D:\\programming\\vus\\paterns\\lab01\\lab01\\FamilyMember.cs",
+              "ToolTip": "E:\\programing\\pp\\lab01\\lab01\\FamilyMember.cs",
               "RelativeToolTip": "lab01\\FamilyMember.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAA9wAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T21:15:59.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Program.cs",
+              "DocumentMoniker": "E:\\programing\\pp\\lab01\\lab01\\Program.cs",
               "RelativeDocumentMoniker": "lab01\\Program.cs",
-              "ToolTip": "D:\\programming\\vus\\paterns\\lab01\\lab01\\Program.cs",
+              "ToolTip": "E:\\programing\\pp\\lab01\\lab01\\Program.cs",
               "RelativeToolTip": "lab01\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBcAAAAmAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T21:15:20.414Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
