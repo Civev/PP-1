@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "lab02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/lab02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab02/1.0.0": {
+      "type": "project",
+      "path": "../lab02/lab02.csproj",
+      "msbuildProject": "../lab02/lab02.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "lab02 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Civ\\.nuget\\packages\\": {},
+    "E:\\programing\\utilits\\packages\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\programing\\pp\\lab02\\PP02\\PP02.csproj",
+      "projectName": "PP02",
+      "projectPath": "E:\\programing\\pp\\lab02\\PP02\\PP02.csproj",
+      "packagesPath": "C:\\Users\\Civ\\.nuget\\packages\\",
+      "outputPath": "E:\\programing\\pp\\lab02\\PP02\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\programing\\utilits\\packages\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Civ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\programing\\pp\\lab02\\lab02\\lab02.csproj": {
+              "projectPath": "E:\\programing\\pp\\lab02\\lab02\\lab02.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
