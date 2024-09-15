@@ -1,0 +1,11 @@
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.deps.json
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.dll
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\bin\Debug\net8.0\Lab6Lib.pdb
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.AssemblyInfoInputs.cache
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.AssemblyInfo.cs
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.csproj.CoreCompileInputs.cache
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.dll
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\refint\Lab6Lib.dll
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\Lab6Lib.pdb
+D:\programming\vus\paterns\Lab6Lib\Lab6Lib\obj\Debug\net8.0\ref\Lab6Lib.dll

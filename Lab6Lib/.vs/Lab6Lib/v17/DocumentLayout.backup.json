@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\vus\\paterns\\Lab6Lib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|d:\\programming\\vus\\paterns\\lab6lib\\pp-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|d:\\programming\\vus\\paterns\\lab6lib\\lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|d:\\programming\\vus\\paterns\\lab6lib\\pp-06\\subscriberc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscriberc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|d:\\programming\\vus\\paterns\\lab6lib\\pp-06\\subscriberb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscriberb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|d:\\programming\\vus\\paterns\\lab6lib\\pp-06\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|d:\\programming\\vus\\paterns\\lab6lib\\lab6lib\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\programming\\vus\\paterns\\Lab6Lib\\Lab6Lib\\Publisher.cs",
+              "RelativeDocumentMoniker": "Lab6Lib\\Publisher.cs",
+              "ToolTip": "D:\\programming\\vus\\paterns\\Lab6Lib\\Lab6Lib\\Publisher.cs",
+              "RelativeToolTip": "Lab6Lib\\Publisher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:02:53.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriberB.cs",
+              "DocumentMoniker": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\SubscriberB.cs",
+              "RelativeDocumentMoniker": "PP-06\\SubscriberB.cs",
+              "ToolTip": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\SubscriberB.cs",
+              "RelativeToolTip": "PP-06\\SubscriberB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:32:54.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\Program.cs",
+              "RelativeDocumentMoniker": "PP-06\\Program.cs",
+              "ToolTip": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\Program.cs",
+              "RelativeToolTip": "PP-06\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:29:48.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriberC.cs",
+              "DocumentMoniker": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\SubscriberC.cs",
+              "RelativeDocumentMoniker": "PP-06\\SubscriberC.cs",
+              "ToolTip": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\SubscriberC.cs",
+              "RelativeToolTip": "PP-06\\SubscriberC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:33:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubscriberA.cs",
+              "DocumentMoniker": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\SubscriberA.cs",
+              "RelativeDocumentMoniker": "PP-06\\SubscriberA.cs",
+              "ToolTip": "D:\\programming\\vus\\paterns\\Lab6Lib\\PP-06\\SubscriberA.cs",
+              "RelativeToolTip": "PP-06\\SubscriberA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:30:18.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "D:\\programming\\vus\\paterns\\Lab6Lib\\Lab6Lib\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "Lab6Lib\\ISubscriber.cs",
+              "ToolTip": "D:\\programming\\vus\\paterns\\Lab6Lib\\Lab6Lib\\ISubscriber.cs",
+              "RelativeToolTip": "Lab6Lib\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:03:34.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
