@@ -8,6 +8,8 @@ namespace lab02 {
     public class Faculty : Organization, IStaff {
         protected List<Department> departments = new List<Department>();
 
+
+
         public Faculty() : base() {
 
         }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PP02/1.0.0": {
+        "dependencies": {
+          "lab02": "1.0.0"
+        },
+        "runtime": {
+          "PP02.dll": {}
+        }
+      },
+      "lab02/1.0.0": {
+        "runtime": {
+          "lab02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

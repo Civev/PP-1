@@ -16,7 +16,7 @@ namespace lab02 {
             private set;
         }
 
-        public Employee(string name, string department, string job) : base(name) {
+        public Employee(string name, string department, string job)  {
             this.department = department;
             this.job = job;
         }
